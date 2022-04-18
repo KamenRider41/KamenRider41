@@ -18,12 +18,17 @@
 ![](https://img.shields.io/badge/%E7%A1%95%E5%A3%AB%E6%88%90%E7%BB%A9-4.36%25-red)
 
 :trophy:  连续三年获得国家奖学金
+
 :trophy:  电子设计大赛全国二等奖
+
 :trophy:  全国大学生智能车竞赛华南赛区一等奖
+
 :trophy:  CCF 12.25%
 
 :trophy:  百度前端训练营晋级班校园社区项目---最佳创意奖
+
 :trophy:  阿里巴巴前端练习生
+
 :trophy:  百度前端训练营优秀营员
 
 
