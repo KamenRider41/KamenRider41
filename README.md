@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-black?logo=nodedotjs&logoColor=white)
 
+![](https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-Koa-black?logo=Koa&logoColor=white)
 ![](https://img.shields.io/badge/-Apifox-red?logo=Apifox&logoColor=white)
 ![](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
